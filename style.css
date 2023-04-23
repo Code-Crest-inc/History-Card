@@ -31,7 +31,7 @@ body{
     height: 30px;
     border-radius: 7px;
     transition: .3s ease;
-    cursor: pointer;
+     cursor: pointer;
   }
   
   .dismiss:hover {
@@ -71,7 +71,7 @@ body{
   }
   
   .title {
-    color: #066e29;
+    color: #a01a1a;
     font-size: 1rem;
     font-weight: 600;
     line-height: 1.5rem;
@@ -91,7 +91,7 @@ body{
   .history {
     display: inline-flex;
     padding: 0.5rem 1rem;
-    background-color: #1aa06d;
+    background-color: #a01a1a;
     color: #ffffff;
     font-size: 1rem;
     line-height: 1.5rem;
